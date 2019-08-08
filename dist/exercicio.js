@@ -6,4 +6,4 @@ console.log("Sua média  é " + media);
 if (media >= 7)
     console.log("Voce esta aprovado");
 else
-    (console.log("Voce esta REPROVADO"));
+    console.log("Voce esta REPROVADO");
